@@ -18,3 +18,10 @@
 - [ ] [console ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
 - [ ] [error lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [ ] [import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
+### Recoendaciones theming
+
+- [ ] [theme](https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme)
+- [ ] [iceBerg](https://marketplace.visualstudio.com/items?itemName=cocopon.iceberg-theme)
+- [ ] [webstorm](https://marketplace.visualstudio.com/items?itemName=xr0master.webstorm-intellij-darcula-theme)
+- [ ] [material icon](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
