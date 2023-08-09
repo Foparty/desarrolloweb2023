@@ -6,6 +6,8 @@
 
 - [ ] Crear un nuevo usuario en tú ordenador.
 
+---
+
 - [ ] Instalar sólo estas apps :
 
   - [ ] [Visual Studio Code](https://code.visualstudio.com/)
@@ -14,6 +16,8 @@
   - [ ] [Sourcetree](https://www.sourcetreeapp.com/)
   - [ ] [Sublime Text](https://www.sublimetext.com/)
 
+---
+
 - [ ] Crear estas carpeta en el escritorio :
 
   - [ ] Cursos
@@ -21,4 +25,11 @@
   - [ ] Proyectos
   - [ ] Notas de código
 
+---
+
 - [ ] [Configuración básica vscode](/vscodeconfig.md)
+- [ ] Atajos para mejorar experiencia VSCode
+
+---
+
+- [ ] [Atajos útiles Chrome](/atajosChrome.md)
