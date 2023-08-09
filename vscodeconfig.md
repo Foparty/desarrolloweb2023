@@ -14,7 +14,7 @@
 ### Según vayamos avanzando más:
 
 - [ ] [esLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [ ] <a href="https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets" target="_blank">ES7 React / Redux / React-Native snippets</a>
-- [ ] console ninja
-- [ ] error lens
-- [ ] import cost
+- [ ] [ES7 React / Redux / React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [ ] [console ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
+- [ ] [error lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [ ] [import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
