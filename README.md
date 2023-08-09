@@ -15,7 +15,10 @@
   - [ ] [Sublime Text](https://www.sublimetext.com/)
 
 - [ ] Crear estas carpeta en el escritorio :
+
   - [ ] Cursos
   - [ ] Ejercicios
-  - [ ] Projectos
+  - [ ] Proyectos
   - [ ] Notas de código
+
+- [ ] [Configuración básica vscode](/vscodeconfig.md)
