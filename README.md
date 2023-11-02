@@ -27,9 +27,9 @@
 
 ---
 
-- [ ] [Configuración básica vscode](/vscodeconfig.md)
+- [ ] [Configuración básica vscode](/VSCodeConfig/vscodeconfig.md)
 - [ ] Atajos para mejorar experiencia VSCode
 
 ---
 
-- [ ] [Atajos útiles Chrome](/atajosChrome.md)
+- [ ] [Atajos útiles Chrome](/ChromeShortcuts/atajosChrome.md)
